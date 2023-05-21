@@ -1,0 +1,17 @@
+.add-search-form{
+    width:100%;
+ 
+ }
+ .add-search-form input{
+     width:100%;
+     padding:0 30px;
+     border:none;
+     font-weight: 600;
+     font-size: 16px;
+     background-color: white;
+     height:40px;
+ }
+ .form-control::placeholder{
+    font-size:x-large;
+    color:  rgb(180, 177, 177);
+ }

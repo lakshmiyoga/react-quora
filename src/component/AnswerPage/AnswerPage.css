@@ -1,0 +1,9 @@
+.answer-card {
+    height:400px;
+
+}
+textarea:focus, textarea.form-control:focus {
+
+    outline:none !important;
+    box-shadow: none;
+}

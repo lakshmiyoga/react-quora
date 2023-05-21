@@ -1,0 +1,70 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "userName": "akash",
+      "email": "akash@gmail.com",
+      "password": "12345"
+    },
+    {
+      "userName": "yoga",
+      "email": "yoga@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "priya",
+      "email": "priya@gmail.com",
+      "password": "98765",
+      "id": 3
+    },
+    {
+      "username": "biru",
+      "email": "biru@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "username": "sdfc",
+      "email": "sdfc@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "username": "nini",
+      "email": "nini@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ],
+  "question": [
+    {
+      "que": "what is javascript",
+      "ans": [
+        {
+          "answer": "dynamic language",
+          "author": "yoga"
+        },
+        {
+          "answer": "lang",
+          "author": "yoga"
+        }
+      ],
+      "Author": "nini",
+      "email": "nini@gmail.com",
+      "id": 1
+    },
+    {
+      "que": "what is html",
+      "ans": [
+        {
+          "answer": "hypetext ransfer language",
+          "author": "yoga"
+        }
+      ],
+      "Author": "yoga",
+      "email": "yoga@gmail.com",
+      "id": 2
+    }
+  ]
+}

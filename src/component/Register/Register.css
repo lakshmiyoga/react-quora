@@ -1,0 +1,17 @@
+.register-block{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 5px 5px  rgb(180, 177, 177);
+    background-color: whitesmoke;
+}
+.col-form-label{
+    font-weight: bold;
+}
+.form-control{
+    border:1px solid black;
+}
+input:focus, input.form-control:focus {
+
+    outline:none !important;
+    box-shadow: none;
+}
